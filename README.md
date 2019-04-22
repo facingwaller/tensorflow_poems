@@ -4,6 +4,7 @@
 
 很久以来，我们都想让机器自己创作诗歌，当无数作家、编辑还没有抬起笔时，AI已经完成了数千篇文章。现在，这里是第一步....
 
+fork 自 https://github.com/jinfagang/tensorflow_poems
 
 # Updates
 
